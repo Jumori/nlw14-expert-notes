@@ -85,7 +85,7 @@ The following tools were used in this project:
 ## 🦸 Author
 
 <a href="https://github.com/Jumori">
- <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/44618499?s=460&u=691cddb486d4b665417d25d8a575e508d6ef9563&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/Jumori.png" width="100px;" alt=""/>
  <br />
  <sub><b>Juliana Morikoshi</b></sub></a>
  <br />
